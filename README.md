@@ -103,3 +103,29 @@ namespace PremiacionDeportistas
         }
     }
 }
+PS C:\Users\JULIANA\Documents\ED\semana12\PremiacionDeportistas> dotnet run
+Deportista Ana registrado en Natacion con 85 puntos.
+Deportista Luis registrado en Atletismo con 90 puntos.  
+Advertencia: El deportista Ana ya fue registrado.       
+Deportista Carlos registrado en Atletismo con 78 puntos.
+Deportista Sofia registrado en Natacion con 92 puntos.  
+Deportista Marta registrado en Natacion con 88 puntos.  
+Deportista Pedro registrado en Atletismo con 81 puntos. 
+
+Premiacion por disciplina:
+
+Natacion:
+  1. Sofia - 92 pts
+  2. Marta - 88 pts
+  3. Ana - 85 pts  
+
+Atletismo:
+  1. Luis - 90 pts
+  2. Pedro - 81 pts
+  3. Carlos - 78 pts
+
+Reporte de disciplinas y deportistas:
+- Natacion: 3 deportistas
+- Atletismo: 3 deportistas
+
+Tiempo de ejecucion: 15,1911 ms
